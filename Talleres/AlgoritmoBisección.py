@@ -1,7 +1,3 @@
-#Pablo Santander
-#Andres Alarcon 
-#Nicolas Barragan 
-#Gabriel De Souza
 
 
 import numpy as np
