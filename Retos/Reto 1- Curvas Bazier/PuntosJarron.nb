@@ -1,0 +1,73 @@
+Notebook[{Cell[
+CellGroupData[{Cell[
+BoxData[RowBox[{"Import","[",RowBox[{"\"PuntosJarra.obj\"",","," ","\"VertexData\""}],"]"}]],
+"Input",CellLabel -> "In[2]:= ",ExpressionUUID -> "c1d04a10-7040-48ad-9202-f9afdc230680"],Cell[
+BoxData[
+InterpretationBox[TagBox[FrameBox[GridBox[{{ItemBox[TagBox[RowBox[{"{",RowBox[{RowBox[
+{"{",RowBox[{"0.36913999915122986`",",","2.037827968597412`",",",RowBox[{"-","0.33992999792099`"}]}],"}"}],",",RowBox[
+{"{",RowBox[{"0.2932650148868561`",",","2.037827968597412`",",",RowBox[{"-","0.40824800729751587`"}]}],"}"}],",",TemplateBox[
+{"889"},"OutputSizeLimit`Skeleton"],",",RowBox[{"{",RowBox[{RowBox[{"-","0.8527699708938599`"}],",","2.4690189361572266`",",","0.007286999840289354`"}],"}"}],",",RowBox[
+{"{",RowBox[{RowBox[{"-","0.852770984172821`"}],",","2.4690189361572266`",",","0.007286999840289354`"}],"}"}]}],"}"}],
+Function[Short[Slot[1],5]]],BaseStyle -> {Deployed -> False},StripOnInput -> False]},{GridBox[
+{{PaneBox[TagBox[TooltipBox[StyleBox[StyleBox[DynamicBox[ToBoxes[FEPrivate`FrontEndResource[
+"FEStrings","sizeBriefExplanation"],StandardForm]],DynamicUpdating -> True,LineIndent -> 0,
+LinebreakAdjustments -> {1.`,100,0,0,0},LineSpacing -> {1,2},StripOnInput -> False],
+"OSLText",StripOnInput -> False],StyleBox[DynamicBox[ToBoxes[FEPrivate`FrontEndResource[
+"FEStrings","sizeExplanation"],StandardForm]],DynamicUpdating -> True,LineIndent -> 0,
+LinebreakAdjustments -> {1.`,100,0,0,0},LineSpacing -> {1,2},StripOnInput -> False]],
+Function[Annotation[Slot[1],Style[Dynamic[FEPrivate`FrontEndResource["FEStrings",
+"sizeExplanation"]],DynamicUpdating -> True,LineIndent -> 0,LinebreakAdjustments -> {1.`,100,0,0,0},
+LineSpacing -> {1,2}],"Tooltip"]]],ImageSize -> {Automatic,{25,Full}},Alignment -> Center,
+BaselinePosition -> Baseline],ButtonBox[PaneSelectorBox[{False -> StyleBox[StyleBox[
+DynamicBox[ToBoxes[FEPrivate`FrontEndResource["FEStrings","sizeShowLess"],StandardForm]],
+DynamicUpdating -> True,LineIndent -> 0,LinebreakAdjustments -> {1.`,100,0,0,0},LineSpacing -> {1,2},
+StripOnInput -> False],"OSLControl",StripOnInput -> False],True -> StyleBox[StyleBox[
+DynamicBox[ToBoxes[FEPrivate`FrontEndResource["FEStrings","sizeShowLess"],StandardForm]],
+DynamicUpdating -> True,LineIndent -> 0,LinebreakAdjustments -> {1.`,100,0,0,0},LineSpacing -> {1,2},
+StripOnInput -> False],"OSLControlActive",StripOnInput -> False]},Dynamic[CurrentValue[
+"MouseOver"]],ImageSize -> {Automatic,{25,Full}},Alignment -> Center,ImageSize -> Automatic,
+FrameMargins -> 0],RuleDelayed[ButtonFunction,OutputSizeLimit`ButtonFunction[OutputSizeLimit`Defer,
+2,31712875495692770539,Times[5,Power[2,-1]]]],Appearance -> None,Enabled -> True,
+BaselinePosition -> Baseline,Method -> "Queued",Evaluator -> Automatic],ButtonBox[
+PaneSelectorBox[{False -> StyleBox[StyleBox[DynamicBox[ToBoxes[FEPrivate`FrontEndResource[
+"FEStrings","sizeShowMore"],StandardForm]],DynamicUpdating -> True,LineIndent -> 0,
+LinebreakAdjustments -> {1.`,100,0,0,0},LineSpacing -> {1,2},StripOnInput -> False],
+"OSLControl",StripOnInput -> False],True -> StyleBox[StyleBox[DynamicBox[ToBoxes[
+FEPrivate`FrontEndResource["FEStrings","sizeShowMore"],StandardForm]],DynamicUpdating -> True,
+LineIndent -> 0,LinebreakAdjustments -> {1.`,100,0,0,0},LineSpacing -> {1,2},StripOnInput -> False],
+"OSLControlActive",StripOnInput -> False]},Dynamic[CurrentValue["MouseOver"]],ImageSize -> {Automatic,{25,Full}},
+Alignment -> Center,ImageSize -> Automatic,FrameMargins -> 0],RuleDelayed[ButtonFunction,
+OutputSizeLimit`ButtonFunction[OutputSizeLimit`Defer,2,31712875495692770539,Times[
+5,2]]],Appearance -> None,Enabled -> True,BaselinePosition -> Baseline,Method -> "Queued",
+Evaluator -> Automatic],ButtonBox[PaneSelectorBox[{False -> StyleBox[StyleBox[DynamicBox[
+ToBoxes[FEPrivate`FrontEndResource["FEStrings","sizeShowAll"],StandardForm]],DynamicUpdating -> True,
+LineIndent -> 0,LinebreakAdjustments -> {1.`,100,0,0,0},LineSpacing -> {1,2},StripOnInput -> False],
+"OSLControl",StripOnInput -> False],True -> StyleBox[StyleBox[DynamicBox[ToBoxes[
+FEPrivate`FrontEndResource["FEStrings","sizeShowAll"],StandardForm]],DynamicUpdating -> True,
+LineIndent -> 0,LinebreakAdjustments -> {1.`,100,0,0,0},LineSpacing -> {1,2},StripOnInput -> False],
+"OSLControlActive",StripOnInput -> False]},Dynamic[CurrentValue["MouseOver"]],ImageSize -> {Automatic,{25,Full}},
+Alignment -> Center,ImageSize -> Automatic,FrameMargins -> 0],RuleDelayed[ButtonFunction,
+OutputSizeLimit`ButtonFunction[OutputSizeLimit`Defer,2,31712875495692770539,Infinity]],
+Appearance -> None,Enabled -> True,BaselinePosition -> Baseline,Method -> "Queued",
+Evaluator -> Automatic],ButtonBox[PaneSelectorBox[{False -> StyleBox[StyleBox[DynamicBox[
+ToBoxes[FEPrivate`FrontEndResource["FEStrings","sizeChangeLimit"],StandardForm]],
+DynamicUpdating -> True,LineIndent -> 0,LinebreakAdjustments -> {1.`,100,0,0,0},LineSpacing -> {1,2},
+StripOnInput -> False],"OSLControl",StripOnInput -> False],True -> StyleBox[StyleBox[
+DynamicBox[ToBoxes[FEPrivate`FrontEndResource["FEStrings","sizeChangeLimit"],StandardForm]],
+DynamicUpdating -> True,LineIndent -> 0,LinebreakAdjustments -> {1.`,100,0,0,0},LineSpacing -> {1,2},
+StripOnInput -> False],"OSLControlActive",StripOnInput -> False]},Dynamic[CurrentValue[
+"MouseOver"]],ImageSize -> {Automatic,{25,Full}},Alignment -> Center,ImageSize -> Automatic,
+FrameMargins -> 0],RuleDelayed[ButtonFunction,FrontEndExecute[{FrontEnd`SetOptions[
+FrontEnd`$FrontEnd,FrontEnd`PreferencesSettings -> {"Page" -> "Advanced"}],FrontEnd`FrontEndToken[
+"PreferencesDialog"]}]],Appearance -> None,BaselinePosition -> Baseline,Evaluator -> None,
+Method -> "Preemptive"]}},AutoDelete -> False,GridBoxDividers -> {"Columns" -> {False,{True}}},
+GridBoxItemSize -> {"Columns" -> {{Automatic}},"Rows" -> {{Automatic}}},GridBoxSpacings -> {"Columns" -> {{2}}},
+FrameStyle -> GrayLevel[0.85`]]}},GridBoxAlignment -> {"Columns" -> {{Left}}},DefaultBaseStyle -> "Column",
+GridBoxItemSize -> {"Columns" -> {{Automatic}},"Rows" -> {{Automatic}}},ColumnWidths -> Automatic,
+ColumnAlignments -> Left,RowLines -> False,RowSpacings -> {3,1}],BaseStyle -> "OutputSizeLimit",
+FrameMargins -> {{12,12},{0,15}},FrameStyle -> GrayLevel[0.85`],RoundingRadius -> 5,
+StripOnInput -> False],Deploy,DefaultBaseStyle -> "Deploy"],If[SameQ[31712875495692770539,
+$SessionID],Out[2],CompoundExpression[Message[MessageName[Syntax,"noinfoker"]],Missing[
+"NotAvailable"],Null]]],StandardForm],"Output",CellLabel -> "Out[2]= ",ExpressionUUID -> "4856533a-04bb-4ecb-97f3-a477eb5ca70f"]},
+Open],ExpressionUUID -> "7ec4a1e3-6380-4bf1-a208-a1bfea2a119e"]},StyleDefinitions -> "Default.nb",
+FrontEndVersion -> "12.3 for Wolfram Cloud 1.60 (September 28, 2021)"]
